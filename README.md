@@ -1,5 +1,4 @@
-# cryptng
-CryptNG Repo which links to the official cryptng repository
+# cryptng, where is it?
 
 Looking for the greatest FIN-TEC Crypto project in the world?
 
